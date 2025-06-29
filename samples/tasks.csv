@@ -1,0 +1,52 @@
+
+TaskID,TaskName,Category,Duration,RequiredSkills,PreferredPhases,MaxConcurrent
+T1,User Authentication,Backend,2,"Python,Django","[1,2]",2
+T2,Payment Gateway,Backend,3,"Java,Spring","[2,3,4]",1
+T3,Dashboard UI,Frontend,2,"React,JavaScript","[1,3]",3
+T4,Mobile App,Mobile,4,"React Native,JavaScript","[3,4,5]",2
+T5,Database Migration,Database,1,"MySQL,PostgreSQL","[1,2]",1
+T6,API Documentation,Documentation,1,"Technical Writing","[4,5,6]",2
+T7,Load Testing,Testing,2,"Testing,Performance","[5,6]",1
+T8,Security Audit,Security,3,"Security,Python","[1,2,3]",1
+T9,Code Review,Development,1,"Code Review,Git","[1,2,3,4,5,6]",4
+T10,UI Redesign,Design,3,"UI/UX,Figma","[2,3,4]",2
+T11,Data Pipeline,Analytics,4,"Python,Data Science","[3,4,5,6]",1
+T12,DevOps Setup,Infrastructure,2,"DevOps,AWS","[1,2]",2
+T13,Bug Fixes,Maintenance,1,"JavaScript,Python","[1,2,3,4,5,6]",5
+T14,Feature Planning,Planning,1,"Project Management","[1]",1
+T15,User Training,Training,2,"Documentation,Training","[5,6]",3
+T16,Performance Optimization,Optimization,3,"Python,JavaScript","[4,5]",2
+T17,Integration Testing,Testing,2,"Testing,QA","[3,4,5]",2
+T18,Cloud Migration,Infrastructure,5,"AWS,DevOps","[2,3,4,5]",1
+T19,Analytics Dashboard,Analytics,3,"Data Science,Visualization","[4,5,6]",2
+T20,Customer Portal,Frontend,4,"React,JavaScript","[2,3,4,5]",2
+T21,Backup System,Infrastructure,2,"DevOps,Database","[1,6]",1
+T22,Monitoring Setup,Operations,2,"DevOps,Monitoring","[2,3]",2
+T23,A/B Testing,Testing,3,"Testing,Analytics","[4,5,6]",1
+T24,Social Login,Backend,1,"OAuth,JavaScript","[1,2,3]",3
+T25,Chat Feature,Feature,3,"WebSocket,JavaScript","[3,4,5]",2
+T26,Email Templates,Frontend,1,"HTML,CSS","[1,2,3,4,5,6]",4
+T27,Search Function,Backend,2,"Elasticsearch,Python","[2,3,4]",2
+T28,File Upload,Backend,2,"Node.js,JavaScript","[1,2,3]",3
+T29,Caching Layer,Backend,2,"Redis,Python","[3,4]",1
+T30,Error Handling,Development,1,"JavaScript,Python","[1,2,3,4,5,6]",3
+T31,Responsive Design,Frontend,2,"CSS,JavaScript","[2,3,4]",3
+T32,Third-party API,Integration,3,"API,JavaScript","[3,4,5]",2
+T33,Database Optimization,Database,2,"SQL,Performance","[4,5]",1
+T34,SSL Certificate,Security,1,"Security,DevOps","[1,2]",2
+T35,Content Management,CMS,4,"PHP,MySQL","[2,3,4,5]",1
+T36,Notification System,Backend,3,"Push Notifications,JavaScript","[4,5,6]",2
+T37,Reporting Module,Analytics,3,"SQL,Reporting","[5,6]",1
+T38,PWA Implementation,Frontend,3,"PWA,JavaScript","[3,4,5]",2
+T39,Image Processing,Backend,2,"Image Processing,Python","[2,3]",1
+T40,Workflow Engine,Backend,4,"Workflow,Python","[3,4,5,6]",1
+T41,Multi-tenancy,Architecture,5,"Architecture,Database","[1,2,3,4]",1
+T42,GraphQL API,API,3,"GraphQL,JavaScript","[4,5,6]",2
+T43,Microservices,Architecture,6,"Microservices,Docker","[2,3,4,5,6]",1
+T44,Rate Limiting,Security,1,"Security,API","[1,2,3]",2
+T45,Logging System,Operations,2,"Logging,DevOps","[2,3,4]",2
+T46,Internationalization,Frontend,2,"i18n,JavaScript","[4,5]",3
+T47,Health Checks,Operations,1,"Monitoring,API","[1,2,3,4,5,6]",3
+T48,Data Validation,Backend,2,"Validation,Python","[2,3,4]",2
+T49,Session Management,Backend,1,"Sessions,Security","[1,2,3]",3
+T50,Automated Testing,Testing,3,"Automation,Testing","[5,6]",2
